@@ -1,4 +1,8 @@
-## Hi there 👋
+
+## こんにちは。過去の失敗を糧に、Web開発者として再挑戦しています。<br>
+ 自分の手で、価値のあるソリューションを実装できる開発者を目指しています。
+
+
 
 <!--
 **suuulmjp/suuulmjp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
